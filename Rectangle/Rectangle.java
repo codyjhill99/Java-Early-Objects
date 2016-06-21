@@ -17,4 +17,16 @@ public class Rectangle
     {
         width = w;
     }
+    
+    //the getLength method returns the value stored in the length field.
+    public double getLength()
+    {
+        return length;
+    }
+    
+    //the getWidth method returns the vaule stored int he length field.
+    public double getWidth()
+    {
+        return width;
+    }
 }
