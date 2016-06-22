@@ -29,4 +29,10 @@ public class Rectangle
     {
         return width;
     }
+    
+    //the getArea method returns the value length * Width.
+    public double getArea()
+    {
+        return length * width;
+    }
 }

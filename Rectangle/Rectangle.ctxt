@@ -7,4 +7,6 @@ comment2.params=
 comment2.target=double\ getLength()
 comment3.params=
 comment3.target=double\ getWidth()
-numComments=4
+comment4.params=
+comment4.target=double\ getArea()
+numComments=5
