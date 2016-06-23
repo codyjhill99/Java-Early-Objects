@@ -17,7 +17,12 @@ public class Rectangle
     {
         width = w;
     }
-    
+    //the set method takes length and width
+    public void set(double w,double len)
+    {
+        width = w;
+        length = len;
+    }
     //the getLength method returns the value stored in the length field.
     public double getLength()
     {
