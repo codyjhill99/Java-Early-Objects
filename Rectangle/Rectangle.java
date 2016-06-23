@@ -6,6 +6,13 @@ public class Rectangle
     private double length;
     private double width;
     
+    //Constructor
+    public Rectangle(double len, double w)
+    {
+        length = len;
+        width = w;
+    }
+    
     //the setLength method accepts and argument that is stored in the length field;
     public void setLength(double len)
     {

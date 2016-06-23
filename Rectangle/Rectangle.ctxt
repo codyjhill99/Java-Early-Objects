@@ -1,14 +1,16 @@
 #BlueJ class context
-comment0.params=len
-comment0.target=void\ setLength(double)
-comment1.params=w
-comment1.target=void\ setWidth(double)
-comment2.params=w\ len
-comment2.target=void\ set(double,\ double)
-comment3.params=
-comment3.target=double\ getLength()
+comment0.params=len\ w
+comment0.target=Rectangle(double,\ double)
+comment1.params=len
+comment1.target=void\ setLength(double)
+comment2.params=w
+comment2.target=void\ setWidth(double)
+comment3.params=w\ len
+comment3.target=void\ set(double,\ double)
 comment4.params=
-comment4.target=double\ getWidth()
+comment4.target=double\ getLength()
 comment5.params=
-comment5.target=double\ getArea()
-numComments=6
+comment5.target=double\ getWidth()
+comment6.params=
+comment6.target=double\ getArea()
+numComments=7
