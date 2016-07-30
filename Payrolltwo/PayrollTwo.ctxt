@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PayrollTwo()
+comment1.params=hours
+comment1.target=void\ setHoursWorked(double)
+comment2.params=rate
+comment2.target=void\ setPayRate(double)
+comment3.params=
+comment3.target=double\ getHoursWorked()
+comment4.params=
+comment4.target=double\ getPayRate()
+comment5.params=
+comment5.target=double\ getGrossPay()
+numComments=6
