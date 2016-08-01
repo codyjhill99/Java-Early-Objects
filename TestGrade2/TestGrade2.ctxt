@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=TestGrade2(int)
+comment1.params=s
+comment1.target=void\ setScore(int)
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=char\ getLetterGrade()
+numComments=4
